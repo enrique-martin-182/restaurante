@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# turbopack / build cache
+.turbo/
+
+# editor & OS
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# claude code
+.claude/
+
+# local env (already covered by .env* above, explicit for clarity)
+.env.local
