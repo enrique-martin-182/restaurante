@@ -1,0 +1,284 @@
+{
+  "categories": [
+    { "id": "entrantes", "label": "Entrantes" },
+    { "id": "mar", "label": "Del Mar" },
+    { "id": "tierra", "label": "De la Tierra" },
+    { "id": "postres", "label": "Postres" },
+    { "id": "bebidas", "label": "Bebidas" }
+  ],
+  "dishes": [
+    {
+      "id": "e1",
+      "name": "Pan con Tomate Ibérico",
+      "description": "Pan de cristal tostado, tomate de Barbastro rallado en el momento, aceite virgen extra Arbequina y láminas de jamón ibérico de bellota",
+      "price": 12,
+      "category": "entrantes",
+      "imageUrl": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73",
+      "imageAlt": "Pan con tomate y jamón ibérico"
+    },
+    {
+      "id": "e2",
+      "name": "Burrata Trufada",
+      "description": "Burrata cremosa de Puglia con aceite de trufa negra, rúcula silvestre, tomates cherry asados y sal Maldon",
+      "price": 16,
+      "category": "entrantes",
+      "imageUrl": "https://images.unsplash.com/photo-1452195100486-9cc805987862",
+      "imageAlt": "Burrata fresca con trufa y rúcula"
+    },
+    {
+      "id": "e3",
+      "name": "Gazpacho de Tomate Asado",
+      "description": "Versión cálida del clásico andaluz: tomate asado al horno de leña con pimiento verde, pepino y aceite de albahaca",
+      "price": 10,
+      "category": "entrantes",
+      "imageUrl": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327",
+      "imageAlt": "Gazpacho de tomate asado con guarnición"
+    },
+    {
+      "id": "e4",
+      "name": "Ensalada de Temporada",
+      "description": "Hojas mixtas de temporada, queso de cabra caramelizado, nueces tostadas, frutos rojos y vinagreta de miel y mostaza",
+      "price": 13,
+      "category": "entrantes",
+      "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      "imageAlt": "Ensalada verde con queso y frutos rojos"
+    },
+    {
+      "id": "e5",
+      "name": "Croquetas de la Casa",
+      "description": "Doce croquetas de jamón ibérico con bechamel artesanal, doradas en aceite de oliva virgen y servidas con alioli de ajo negro",
+      "price": 11,
+      "category": "entrantes",
+      "imageUrl": "https://images.unsplash.com/photo-1551218808-94e220e084d2",
+      "imageAlt": "Croquetas doradas de jamón ibérico"
+    },
+    {
+      "id": "e6",
+      "name": "Tartar de Atún Rojo",
+      "description": "Atún rojo de almadraba marinado con ponzu, aguacate, sésamo negro, lima y chips de taro crujientes",
+      "price": 22,
+      "category": "entrantes",
+      "imageUrl": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351",
+      "imageAlt": "Tartar de atún rojo con aguacate"
+    },
+    {
+      "id": "m1",
+      "name": "Salmón a la Plancha",
+      "description": "Lomo de salmón noruego ASC sobre lecho de espinacas salteadas, salsa de eneldo y limón confitado, con patata rústica",
+      "price": 24,
+      "category": "mar",
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288",
+      "imageAlt": "Salmón a la plancha con limón",
+      "featured": true
+    },
+    {
+      "id": "m2",
+      "name": "Gambas al Ajillo",
+      "description": "Gambas blancas de Huelva salteadas en cazuela de barro con aceite de oliva, ajo laminado, guindilla y perejil fresco",
+      "price": 20,
+      "category": "mar",
+      "imageUrl": "https://images.unsplash.com/photo-1565980813-c6996b2abe18",
+      "imageAlt": "Gambas al ajillo en cazuela de barro"
+    },
+    {
+      "id": "m3",
+      "name": "Pulpo a la Gallega",
+      "description": "Pulpo cocido al punto sobre cama de puré de patata con pimentón de la Vera, sal gruesa y aceite de oliva virgen",
+      "price": 26,
+      "category": "mar",
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "imageAlt": "Pulpo a la gallega sobre puré de patata"
+    },
+    {
+      "id": "m4",
+      "name": "Merluza en Salsa Verde",
+      "description": "Suprema de merluza del Cantábrico en salsa verde con almejas de carril, espárragos blancos y huevo escalfado",
+      "price": 25,
+      "category": "mar",
+      "imageUrl": "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
+      "imageAlt": "Merluza en salsa verde con almejas"
+    },
+    {
+      "id": "m5",
+      "name": "Lubina a la Sal",
+      "description": "Lubina salvaje entera cocinada en costra de sal marina durante 25 minutos. Servida en mesa con emulsión de lima y aceite de hierbas",
+      "price": 32,
+      "category": "mar",
+      "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5",
+      "imageAlt": "Lubina a la sal en costra"
+    },
+    {
+      "id": "m6",
+      "name": "Arroz Meloso de Bogavante",
+      "description": "Arroz carnaroli meloso con bogavante fresco, fumet de marisco concentrado, tinta de calamar y alioli de ajo asado",
+      "price": 38,
+      "category": "mar",
+      "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+      "imageAlt": "Arroz meloso de bogavante"
+    },
+    {
+      "id": "t1",
+      "name": "Solomillo al Roquefort",
+      "description": "300g de solomillo de ternera charolesa marcado a la brasa, salsa de queso Roquefort, patatas suflé y judías verdes salteadas",
+      "price": 34,
+      "category": "tierra",
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450675393462",
+      "imageAlt": "Solomillo a la brasa con salsa de roquefort",
+      "featured": true
+    },
+    {
+      "id": "t2",
+      "name": "Chuletón de Buey",
+      "description": "Chuletón de buey gallego 600g madurado 45 días, sal Maldon y aceite de oliva virgen. Solo con ensalada de hojas. Para dos personas",
+      "price": 58,
+      "category": "tierra",
+      "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947",
+      "imageAlt": "Chuletón de buey madurado a la brasa"
+    },
+    {
+      "id": "t3",
+      "name": "Pollo de Corral al Limón",
+      "description": "Pollo de corral asado entero en horno de leña con limones de Málaga, tomillo, romero y ajo. Acompañado de patatas al romero",
+      "price": 22,
+      "category": "tierra",
+      "imageUrl": "https://images.unsplash.com/photo-1432139555190-58524dae6a55",
+      "imageAlt": "Pollo asado al limón con patatas"
+    },
+    {
+      "id": "t4",
+      "name": "Costillas de Cerdo Ibérico",
+      "description": "Costillas de cerdo ibérico glaseadas con reducción de Pedro Ximénez, asadas lentamente durante 8 horas con chutney de mango",
+      "price": 28,
+      "category": "tierra",
+      "imageUrl": "https://images.unsplash.com/photo-1484980972926-edee96e0960d",
+      "imageAlt": "Costillas de cerdo ibérico glaseadas"
+    },
+    {
+      "id": "t5",
+      "name": "Rabo de Toro al Rioja",
+      "description": "Rabo de toro de lidia estofado 14 horas en vino tinto Rioja Reserva con verduras de temporada y croqueta de tuétano",
+      "price": 27,
+      "category": "tierra",
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "imageAlt": "Rabo de toro estofado al vino"
+    },
+    {
+      "id": "t6",
+      "name": "Risotto de Setas y Trufa",
+      "description": "Arroz carnaroli en mantequilla de trufa negra con boletus, shiitake, parmesano Reggiano 30 meses y láminas de trufa de temporada",
+      "price": 23,
+      "category": "tierra",
+      "imageUrl": "https://images.unsplash.com/photo-1485921325833-c519f76c4927",
+      "imageAlt": "Risotto cremoso de setas con trufa"
+    },
+    {
+      "id": "p1",
+      "name": "Tarta de Queso San Sebastián",
+      "description": "La mítica cheesecake vasca: cremosa, quemada por fuera, fundente por dentro. Con coulis de frutos rojos y helado de vainilla",
+      "price": 9,
+      "category": "postres",
+      "imageUrl": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9",
+      "imageAlt": "Tarta de queso San Sebastián",
+      "featured": true
+    },
+    {
+      "id": "p2",
+      "name": "Crema Catalana",
+      "description": "Crema tradicional de yema y canela con costra de azúcar caramelizado en el momento. Servida templada en cazuela individual",
+      "price": 7,
+      "category": "postres",
+      "imageUrl": "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+      "imageAlt": "Crema catalana con azúcar caramelizado"
+    },
+    {
+      "id": "p3",
+      "name": "Coulant de Chocolate Negro",
+      "description": "Bizcocho fundente de chocolate Valrhona 70% con corazón líquido, helado de vainilla de Madagascar y escamas de sal",
+      "price": 10,
+      "category": "postres",
+      "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
+      "imageAlt": "Coulant de chocolate negro fundente"
+    },
+    {
+      "id": "p4",
+      "name": "Tiramisú Clásico",
+      "description": "Tiramisú artesanal con mascarpone, savoiardi embebidos en café espresso, yema pasteurizada y cacao amargo Valrhona",
+      "price": 8,
+      "category": "postres",
+      "imageUrl": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9",
+      "imageAlt": "Tiramisú clásico con cacao"
+    },
+    {
+      "id": "p5",
+      "name": "Sorbete de Limón con Cava",
+      "description": "Sorbete de limón de Murcia con ralladura de lima, servido con un chorro de cava brut y hojas de hierbabuena fresca",
+      "price": 7,
+      "category": "postres",
+      "imageUrl": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f",
+      "imageAlt": "Sorbete de limón con hierbabuena"
+    },
+    {
+      "id": "p6",
+      "name": "Selección de Quesos",
+      "description": "Tabla de tres quesos artesanos españoles: Manchego curado, Cabrales asturiano y Idiazábal ahumado. Con membrillo, nueces y miel",
+      "price": 14,
+      "category": "postres",
+      "imageUrl": "https://images.unsplash.com/photo-1452195100486-9cc805987862",
+      "imageAlt": "Selección de quesos artesanos españoles"
+    },
+    {
+      "id": "b1",
+      "name": "Vino Tinto Ribera del Duero",
+      "description": "Ribera del Duero Crianza D.O. Tempranillo 100%, 12 meses en barrica de roble francés. Notas a ciruela, vainilla y especias",
+      "price": 9,
+      "category": "bebidas",
+      "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3",
+      "imageAlt": "Copa de vino tinto Ribera del Duero"
+    },
+    {
+      "id": "b2",
+      "name": "Vino Blanco Albariño",
+      "description": "Albariño D.O. Rías Baixas, fermentado en barrica. Fresco, cítrico y mineral con largo final. Perfecto con pescados y mariscos",
+      "price": 8,
+      "category": "bebidas",
+      "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64",
+      "imageAlt": "Copa de vino blanco Albariño"
+    },
+    {
+      "id": "b3",
+      "name": "Cóctel Limón Signature",
+      "description": "Vodka Grey Goose, licor de yuzu, limón exprimido, jarabe de jengibre y espuma de clara de huevo. Servido frío en copa de cristal",
+      "price": 13,
+      "category": "bebidas",
+      "imageUrl": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b",
+      "imageAlt": "Cóctel signature Limón con espuma de clara"
+    },
+    {
+      "id": "b4",
+      "name": "Cerveza Artesana Madrid",
+      "description": "IPA madrileña de producción local, 6.2% ABV. Lupulada con amarillo y citra, notas a fruta tropical y cítrico. Servida muy fría",
+      "price": 6,
+      "category": "bebidas",
+      "imageUrl": "https://images.unsplash.com/photo-1532634922-8fe0b757fb13",
+      "imageAlt": "Cerveza artesana IPA madrileña"
+    },
+    {
+      "id": "b5",
+      "name": "Café de Especialidad",
+      "description": "Selección de origen único de la temporada: espresso, americano o cortado. Tostado en Madrid por Hola Coffee",
+      "price": 3,
+      "category": "bebidas",
+      "imageUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31",
+      "imageAlt": "Café de especialidad en taza artesanal"
+    },
+    {
+      "id": "b6",
+      "name": "Agua Mineral Premium",
+      "description": "Solán de Cabras sin gas · San Pellegrino con gas. Servida en botella de vidrio de 750ml bien fría",
+      "price": 4,
+      "category": "bebidas",
+      "imageUrl": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d",
+      "imageAlt": "Agua mineral en botella de vidrio"
+    }
+  ]
+}

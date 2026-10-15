@@ -1,0 +1,33 @@
+{
+  "name": "Limón",
+  "tagline": "Brasserie de mercado · Madrid",
+  "description": "Cocina de temporada bajo luz de vela. Ingredientes de proximidad, técnica sin pretensiones, sabores que duran.",
+  "address": "Calle de Fuencarral 88, 28004 Madrid",
+  "phone": "+34 91 444 22 11",
+  "email": "reservas@limon-madrid.es",
+  "social": {
+    "instagram": "https://instagram.com/limonmadrid",
+    "facebook": "https://facebook.com/limonmadrid"
+  },
+  "hours": [
+    { "days": "Martes – Jueves", "time": "14:00 – 16:30 · 21:00 – 23:30" },
+    { "days": "Viernes – Sábado", "time": "14:00 – 17:00 · 21:00 – 00:00" },
+    { "days": "Domingo", "time": "14:00 – 17:30" },
+    { "days": "Lunes", "time": "Cerrado" }
+  ],
+  "hero": {
+    "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0",
+    "imageAlt": "Interior de Limón con luz cálida de vela y ambiente íntimo"
+  },
+  "gallery": [
+    { "id": "g1", "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5", "alt": "Mesa preparada para la cena con velas" },
+    { "id": "g2", "imageUrl": "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b", "alt": "Copa de vino tinto" },
+    { "id": "g3", "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288", "alt": "Salmón a la plancha" },
+    { "id": "g4", "imageUrl": "https://images.unsplash.com/photo-1485921325833-c519f76c4927", "alt": "Pasta artesanal de temporada" },
+    { "id": "g5", "imageUrl": "https://images.unsplash.com/photo-1551218808-94e220e084d2", "alt": "Entrante de temporada" },
+    { "id": "g6", "imageUrl": "https://images.unsplash.com/photo-1510526685485-9555e1b800f5", "alt": "Sala interior del restaurante" },
+    { "id": "g7", "imageUrl": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9", "alt": "Postre de chocolate" },
+    { "id": "g8", "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947", "alt": "Carne a la brasa" },
+    { "id": "g9", "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe", "alt": "Ensalada de temporada" }
+  ]
+}
